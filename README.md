@@ -1,6 +1,5 @@
 # Ex-4-LETTER-FOLLOWED-BY-ANY-NUMBER-OF-LETTERS-OR-DIGITS-USING-YACC
-# Date:15/10/25
-# REGISTER NUMBER: 2305001013
+# REGISTER NUMBER: 212224040095
 # Aim:
 To write a YACC program to recognize a valid variable which starts with a letter followed by any number of letters or digits.
 # ALGORITHM
